@@ -18,3 +18,9 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+Example project, based on http://dog.ceo/dog-api
+
+In this project, I get first img of all dogs breeds, create filter by breed, responsive design (only css)
+
+Technologies: `nuxtjs, vuejs, vuex, axios`
